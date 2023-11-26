@@ -1,7 +1,7 @@
 <h2>Hi, I am Mara 🌸</h2> 
 <ul>
   <li>Student: Front-End Development | English</li>
-  <li>From Brazil 🇧🇷</li>
+  <li>From: Brazil 🇧🇷</li>
 </ul>
 
 <div style="display: inline_block"><br>
