@@ -1,4 +1,4 @@
-<h2>Hi, my name is Mara</h2> 🌸
+<h2>Hi, my name is Mara 🌸</h2> 
 <ul>
   <li>Student: Front-End Development | English</li>
   <li>From Brazil 🇧🇷</li>
